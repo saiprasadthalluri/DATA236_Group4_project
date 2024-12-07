@@ -1,4 +1,4 @@
-# Online Taxi Booking Web Application React js and Django
+# Uber Simulation Application React js and Django
 
 
 # Project Purpose
@@ -13,7 +13,7 @@ React.js: Powering the frontend to deliver a dynamic and interactive user experi
 
 Mapbox API: Integrated for mapping functionalities, enhancing location-based features.
 
-Tailwind CSS: Employed for styling and design, ensuring a sleek and responsive UI.
+MongoDB and MySQL: As  Databases for bith structured and unstructured data.
 
 # Authentication Mechanism
 
@@ -21,7 +21,7 @@ The application uses JWT (JSON Web Tokens) for user authentication, ensuring sec
 
 # Description
 
-This Online Taxi Booking Web Application brings together the power of Django Rest Framework and React.js to create a feature-rich platform for both riders and drivers. Users can seamlessly book rides, manage their trips, track routes through Mapbox integration, and experience a user-friendly interface built upon modern design principles using Tailwind CSS.
+This Uber Simulation Application brings together the power of Django Rest Framework and React.js to create a feature-rich platform for both riders and drivers. Users can seamlessly book rides, manage their trips, track routes through Mapbox integration, and experience a user-friendly interface built upon modern design principles using Tailwind CSS.
 
 # Features
 
